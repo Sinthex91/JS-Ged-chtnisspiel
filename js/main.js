@@ -21,5 +21,5 @@ do {
 //Bewertung
 var ergebnis = laenge - 1;
 if (ergebnis < 3) ergebnis = 0;
-ausgabe += "Du konntest dir " + ergebnis + " Ziffern merken";
+ausgabe += "Du konntest dir 3 mal " + ergebnis + " Ziffern merken";
 document.write(ausgabe);
